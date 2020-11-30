@@ -1,0 +1,248 @@
+{
+    "schedule": [
+        {
+            "routeNumber": 12,
+            "timeOfArrival": "00:00",
+            "destination": "Tatooine",
+            "timeOfNextStarship": "02:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 42,
+            "timeOfArrival": "00:00",
+            "destination": "Fhloston",
+            "timeOfNextStarship": "12:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 101,
+            "timeOfArrival": "00:00",
+            "destination": "Furya",
+            "timeOfNextStarship": "03:00",
+            "isDelayed": true,
+            "delayEstimate": "01:00",
+            "reasonOfDelay": "Ice Storm"
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "00:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "01:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "01:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "02:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "02:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "03:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 12,
+            "timeOfArrival": "02:00",
+            "destination": "Tatooine",
+            "timeOfNextStarship": "04:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "03:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "04:00",
+            "isDelayed": true,
+            "delayEstimate": "04:55",
+            "reasonOfDelay": "Engine issues"
+        },
+        {
+            "routeNumber": 101,
+            "timeOfArrival": "03:00",
+            "destination": "Furya",
+            "timeOfNextStarship": "06:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "04:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "05:00",
+            "isDelayed": true,
+            "delayEstimate": "01:00",
+            "reasonOfDelay": "Meteor Strike"
+        },
+        {
+            "routeNumber": 12,
+            "timeOfArrival": "04:00",
+            "destination": "Tatooine",
+            "timeOfNextStarship": "06:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "05:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "06:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "06:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "07:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 12,
+            "timeOfArrival": "06:00",
+            "destination": "Tatooine",
+            "timeOfNextStarship": "08:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 101,
+            "timeOfArrival": "06:00",
+            "destination": "Furya",
+            "timeOfNextStarship": "09:00",
+            "isDelayed": true,
+            "delayEstimate": "12:00",
+            "reasonOfDelay": "Alien invasion"
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "07:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "08:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "08:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "09:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 12,
+            "timeOfArrival": "08:00",
+            "destination": "Tatooine",
+            "timeOfNextStarship": "10:00",
+            "isDelayed": true,
+            "delayEstimate": "04:00",
+            "reasonOfDelay": "Ice Storm"
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "09:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "10:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+
+                {
+            "routeNumber": 101,
+            "timeOfArrival": "09:00",
+            "destination": "Furya",
+            "timeOfNextStarship": "12:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "10:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "11:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 12,
+            "timeOfArrival": "10:00",
+            "destination": "Tatooine",
+            "timeOfNextStarship": "12:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "11:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "12:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 96,
+            "timeOfArrival": "12:00",
+            "destination": "Pern",
+            "timeOfNextStarship": "13:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 12,
+            "timeOfArrival": "12:00",
+            "destination": "Tatooine",
+            "timeOfNextStarship": "14:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 101,
+            "timeOfArrival": "12:00",
+            "destination": "Furya",
+            "timeOfNextStarship": "15:00",
+            "isDelayed": false,
+            "delayEstimate": "",
+            "reasonOfDelay": ""
+        },
+        {
+            "routeNumber": 42,
+            "timeOfArrival": "12:00",
+            "destination": "Fhloston",
+            "timeOfNextStarship": "24:00",
+            "isDelayed": true,
+            "delayEstimate": "02:00",
+            "reasonOfDelay": "Meteor Shower"
+        }
+    ]
+}

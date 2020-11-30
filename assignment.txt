@@ -1,0 +1,36 @@
+The Transit Schedule
+Create An Updating Transit Schedule with ES6, Fetch, and JSON
+
+The transit authority of Zerkblatt has just decided to update its intergalactic transit system.  It needs the following specifications.  The transit displays require:
+
+JSON:
+
+Please build a json file that contains an array of objects. There are 4 intergalactic routes that reach the starship stop on the planet Zerkblatt.  The routes are:
+
+
+
+Create a json file with an array of objects representing the schedule of arrivals to Zerkblatt over a 24 hour period, starting and ending at midnight.  Each element of the array should be an object containing:
+
+ *   Time of arrival on Zerkblatt
+
+ *   Route arriving
+
+ *   Route Destination
+
+ *   Time of next starship to the location
+
+ *   If the starship is delayed
+
+ *   Reason for the delay
+
+ *   Delay time estimate
+
+JavaScript
+
+Create an ES6 class that takes in the name of the json file to load.
+
+
+Every 10 minutes, the json file should be reloaded using fetch.
+
+
+Upon loading populate and style an unordered list with the details of the routes.
