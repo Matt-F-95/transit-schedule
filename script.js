@@ -7,6 +7,7 @@ class Schedule {
     constructor(file) {
         this.file = file;
         this.scheduleUpdate();
+        this.scheduleUpdate();
     }
 
     grabAndDisplay() {
